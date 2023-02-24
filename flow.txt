@@ -1,0 +1,13 @@
+FLOW PENGERJAAN HOMEWORK 8
+
+1. Restore DB (pgAdmin / terminal)
+2. Seeding
+3. Query 
+4. Migration
+5. Push ke github (submit)
+
+// NOTES
+
+node_modules 
+
+bikin file .gitignore, tulis didalamnya node_modules
